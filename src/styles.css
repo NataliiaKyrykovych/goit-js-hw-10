@@ -1,16 +1,12 @@
 @import '~node_modules/modern-normalize/modern-normalize.css';
 
-body {
-    background-color: bisque;
-}
 
 .breed-select {
     font: inherit;
-    max-width: 320px;
+    max-width: 400px;
     padding: 8px;
     margin-bottom: 16px;
 }
-
 
 .wrapper {
     padding: 50px;
@@ -18,11 +14,4 @@ body {
 
 .invisible {
     display: none;
-}
-
-.cat-info {
-    margin-top: 50px;
-    display: flex;
-    gap: 50px;
-    max-width: 100%;
 }
